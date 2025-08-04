@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Punjabi Tadka",
+    "cuisine": ["North Indian", "Tandoori", "Biryani"],
+    "rating": 4.5,
+    "deliveryTime": "30 mins",
+    "priceForTwo": "₹400 for two",
+    "image": "https://images.unsplash.com/photo-1554538693-d854cceb26a9?q=80&w=735&auto=format&fit=crop",
+    "location": "Sector 45, Gurgaon"
+  },
+  {
+    "id": 2,
+    "name": "The Burger House",
+    "cuisine": ["Burgers", "Fast Food", "Snacks"],
+    "rating": 4.2,
+    "deliveryTime": "25 mins",
+    "priceForTwo": "₹250 for two",
+    "image": "https://images.unsplash.com/photo-1648227132835-24a6405b2fc3?q=80&w=764&auto=format&fit=crop",
+    "location": "MG Road, Gurgaon"
+  },
+  {
+    "id": 3,
+    "name": "Sushi Express",
+    "cuisine": ["Japanese", "Sushi", "Seafood"],
+    "rating": 4.8,
+    "deliveryTime": "40 mins",
+    "priceForTwo": "₹800 for two",
+    "image": "https://images.unsplash.com/photo-1635321594544-7dbc56d3ed52?q=80&w=1151&auto=format&fit=crop",
+    "location": "Cyber Hub, Gurgaon"
+  },
+  {
+    "id": 4,
+    "name": "Pizza Paradise",
+    "cuisine": ["Italian", "Pizza", "Cheese"],
+    "rating": 4.3,
+    "deliveryTime": "28 mins",
+    "priceForTwo": "₹500 for two",
+    "image": "https://images.unsplash.com/photo-1601924578361-6ba79e8f680d?q=80&w=800&auto=format&fit=crop",
+    "location": "Sohna Road, Gurgaon"
+  },
+  {
+    "id": 5,
+    "name": "Masala Junction",
+    "cuisine": ["South Indian", "Indian", "Snacks"],
+    "rating": 4.0,
+    "deliveryTime": "22 mins",
+    "priceForTwo": "₹300 for two",
+    "image": "https://images.unsplash.com/photo-1603898037225-763c3cd5d9e4?q=80&w=800&auto=format&fit=crop",
+    "location": "Huda Market, Gurgaon"
+  },
+  {
+    "id": 6,
+    "name": "Tandoori Flames",
+    "cuisine": ["Mughlai", "North Indian", "Grill"],
+    "rating": 4.4,
+    "deliveryTime": "35 mins",
+    "priceForTwo": "₹600 for two",
+    "image": "https://images.unsplash.com/photo-1598899134739-24c46f58c072?q=80&w=800&auto=format&fit=crop",
+    "location": "DLF Phase 3, Gurgaon"
+  },
+  {
+    "id": 7,
+    "name": "Wrap & Roll",
+    "cuisine": ["Street Food", "Wraps", "Quick Bites"],
+    "rating": 3.9,
+    "deliveryTime": "20 mins",
+    "priceForTwo": "₹200 for two",
+    "image": "https://images.unsplash.com/photo-1609334762740-4288f1b1590a?q=80&w=800&auto=format&fit=crop",
+    "location": "Sector 14, Gurgaon"
+  },
+  {
+    "id": 8,
+    "name": "Biryani Blues",
+    "cuisine": ["Hyderabadi", "Biryani", "Curry"],
+    "rating": 4.6,
+    "deliveryTime": "32 mins",
+    "priceForTwo": "₹450 for two",
+    "image": "https://images.unsplash.com/photo-1617196038435-59c4083e9b91?q=80&w=800&auto=format&fit=crop",
+    "location": "Udyog Vihar, Gurgaon"
+  },
+  {
+    "id": 9,
+    "name": "Healthy Bowl Co.",
+    "cuisine": ["Salads", "Healthy Food", "Continental"],
+    "rating": 4.7,
+    "deliveryTime": "24 mins",
+    "priceForTwo": "₹350 for two",
+    "image": "https://images.unsplash.com/photo-1572441710538-8e3d7f2c078e?q=80&w=800&auto=format&fit=crop",
+    "location": "Sector 29, Gurgaon"
+  },
+  {
+    "id": 10,
+    "name": "Wok On Fire",
+    "cuisine": ["Chinese", "Asian", "Noodles"],
+    "rating": 4.1,
+    "deliveryTime": "30 mins",
+    "priceForTwo": "₹300 for two",
+    "image": "https://images.unsplash.com/photo-1626082925968-25d8d183b5e1?q=80&w=800&auto=format&fit=crop",
+    "location": "Sushant Lok, Gurgaon"
+  }
+]

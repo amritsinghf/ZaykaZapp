@@ -1,0 +1,34 @@
+{
+  "name": "zaykazapp",
+  "version": "1.0.0",
+  "description": "Welcome to Zaykazapp – your ultimate food ordering companion! Discover the best local restaurants and explore diverse cuisines from the comfort of your home. With an intuitive interface, customizable orders, and real-time delivery tracking, FoodEase makes satisfying your cravings a breeze. Whether you're in the mood for comfort food or gourmet delicacies, FoodEase ensures a fast, secure, and hassle-free experience. Eat what you love, when you want – with ease!",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [
+    "Food",
+    "ordering",
+    "app",
+    "Local",
+    "restaurants",
+    "Food",
+    "delivery"
+  ],
+  "author": "Amrit Singh",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router": "^7.7.1",
+    "react-router-dom": "^7.7.1",
+    "react-shimmer": "^3.2.0"
+  },
+  "browserslist": [
+    "last 2 Chrome version"
+  ]
+}
